@@ -18,7 +18,9 @@ A Python Tkinter application to calculate sheet metal bend allowance and flat le
 3. Run `SheetMetal Calculator.py`.
 
 ## Screenshot
-<img src="screenshot.png" alt="Sheet Metal Calculator" width="600">
+<img src="screenshot1.png" alt="Sheet Metal Calculator" width="600">
+<img src="screenshot2.png" alt="Sheet Metal Calculator" width="600">
+
 
 ## Author
 Sakthi Murugan
